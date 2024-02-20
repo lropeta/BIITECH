@@ -12,9 +12,6 @@ Government Building Commercial Cleaning Company is a professional cleaning servi
 - **Contact Information**: Easily get in touch with us via phone, email, or the contact form provided on the website.
 - **Responsive Design**: The website is optimized for desktop, tablet, and mobile devices to ensure a seamless browsing experience for all users.
 
-## Installation
+## Technologies Used
 
-To run the project locally, follow these steps:
-
-1. Clone the repository to your local machine:
-
+This website was created using Bootstrap Studio, a powerful design tool for building responsive websites with Bootstrap. It utilizes HTML, CSS, and Bootstrap components to achieve its layout and functionality.
