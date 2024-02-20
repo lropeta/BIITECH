@@ -14,4 +14,4 @@ Government Building Commercial Cleaning Company is a professional cleaning servi
 
 ## Technologies Used
 
-This website was created using Bootstrap Studio, a powerful design tool for building responsive websites with Bootstrap. It utilizes HTML, CSS, and Bootstrap components to achieve its layout and functionality.
+This website was created through the help of Bootstrap Studio, a powerful design tool for building responsive websites with Bootstrap. It utilizes HTML, CSS, and Bootstrap components to achieve its layout and functionality. 
